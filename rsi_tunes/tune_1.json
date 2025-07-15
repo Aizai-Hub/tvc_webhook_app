@@ -1,0 +1,31 @@
+{
+  "tune_id": 1,
+  "features": [
+    {
+      "type": "RSI",
+      "a": 6,
+      "b": 1
+    },
+    {
+      "type": "RSI",
+      "a": 9,
+      "b": 1
+    },
+    {
+      "type": "RSI",
+      "a": 14,
+      "b": 1
+    },
+    {
+      "type": "RSI",
+      "a": 21,
+      "b": 2
+    },
+    {
+      "type": "RSI",
+      "a": 23,
+      "b": 2
+    }
+  ],
+  "note": "RSI combo 1"
+}
